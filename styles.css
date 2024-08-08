@@ -1,5 +1,8 @@
 body {
-    background-color:lightgreen
+    background-color: lightgreen;
+    display: grid;
+    place-items: center;
+
 }
 
 .image{
