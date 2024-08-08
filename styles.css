@@ -17,3 +17,11 @@ body {
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
+
+.link-button:hover {
+    background-color: lightgray;
+}
+
+.link-button:active {
+    background-color: #f2f2f2;
+}
